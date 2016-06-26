@@ -2,6 +2,8 @@
 
 HackCon 4 NA: sponsorship workshop.
 
+[Previous video of the presentation](https://www.youtube.com/watch?v=gDytK-ke42s) with the same slides.
+
 - Useful tools for CRM
   - https://www.salesforceiq.com/
   - http://www.boomeranggmail.com/
@@ -17,4 +19,9 @@ HackCon 4 NA: sponsorship workshop.
   - Do not stop communicating
 - Negotiate, but don't give away the keys to the castle
 - Use a standard sponsorship contract
+
+## Pitfalls
+
+- Not understanding payment cycles
+- Not valuing what you're selling
 
