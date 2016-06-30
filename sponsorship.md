@@ -9,6 +9,8 @@ HackCon 4 NA: sponsorship workshop.
   - http://www.boomeranggmail.com/
   - https://followup.cc/
 
+## Good points
+
 - Under promise & over deliver
 - Thank you notes for all sponsors
   - Recap/write-up after the event
@@ -24,4 +26,9 @@ HackCon 4 NA: sponsorship workshop.
 
 - Not understanding payment cycles
 - Not valuing what you're selling
+
+## More notes from Intel sponsor
+
+Be really clear on availability (who we're sending it to, where you're sending it (NOT dorm room)).
+Keep relationships, pass the baton to different sponsorship leads.
 
